@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "vkParse\\": "src/"
+    }
+  },
+  "require": {
+    "vkcom/vk-php-sdk": "^5.101",
+    "mongodb/mongodb": "1.11.0"
+  }
+}
